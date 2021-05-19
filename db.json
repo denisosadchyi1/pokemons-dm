@@ -1,5 +1,5 @@
 {
-  "pockemons": [
+  'pockemons': [
   {
     'name_clean': 'bulbasaur',
     'abilities': [
