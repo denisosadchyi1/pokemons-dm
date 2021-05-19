@@ -1,5 +1,5 @@
 {
-"pokemons": [
+  "pockemons": [
   {
     'name_clean': 'bulbasaur',
     'abilities': [
@@ -263,6 +263,6 @@
     'is_default': true,
     'order': 14,
     'weight': 29,
-  },
- ]
+  }
+]
 }
